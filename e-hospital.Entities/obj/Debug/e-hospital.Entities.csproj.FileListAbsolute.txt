@@ -1,0 +1,11 @@
+C:\Users\Eneid\OneDrive\Υπολογιστής\OBJECT ORIENTED PROGRAMMING\E-Hospital\e-hospital.Entities\bin\Debug\e-hospital.Entities.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\OBJECT ORIENTED PROGRAMMING\E-Hospital\e-hospital.Entities\bin\Debug\e-hospital.Entities.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\OBJECT ORIENTED PROGRAMMING\E-Hospital\e-hospital.Entities\obj\Debug\e-hospital.Entities.dll
+C:\Users\Eneid\OneDrive\Υπολογιστής\OBJECT ORIENTED PROGRAMMING\E-Hospital\e-hospital.Entities\obj\Debug\e-hospital.Entities.pdb
+C:\Users\Eneid\OneDrive\Υπολογιστής\OBJECT ORIENTED PROGRAMMING\E-Hospital\e-hospital.Entities\obj\Debug\e-hospital.Entities.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\Desktop\Computing\Final Assignments\C#\E-Hospital\Portfolio2\E-Hospital\e-hospital.Entities\bin\Debug\e-hospital.Entities.dll
+C:\Users\Eneida Lame\Desktop\Computing\Final Assignments\C#\E-Hospital\Portfolio2\E-Hospital\e-hospital.Entities\bin\Debug\e-hospital.Entities.pdb
+C:\Users\Eneida Lame\Desktop\Computing\Final Assignments\C#\E-Hospital\Portfolio2\E-Hospital\e-hospital.Entities\obj\Debug\e-hospital.Entities.csprojAssemblyReference.cache
+C:\Users\Eneida Lame\Desktop\Computing\Final Assignments\C#\E-Hospital\Portfolio2\E-Hospital\e-hospital.Entities\obj\Debug\e-hospital.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Eneida Lame\Desktop\Computing\Final Assignments\C#\E-Hospital\Portfolio2\E-Hospital\e-hospital.Entities\obj\Debug\e-hospital.Entities.dll
+C:\Users\Eneida Lame\Desktop\Computing\Final Assignments\C#\E-Hospital\Portfolio2\E-Hospital\e-hospital.Entities\obj\Debug\e-hospital.Entities.pdb
